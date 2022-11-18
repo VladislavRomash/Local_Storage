@@ -1,4 +1,4 @@
-//Store
+// Store
 
 const rootReducer = combineReducers({
     counter: CounterReducer
@@ -35,7 +35,7 @@ function App() {
 
 export default App;
 
-// CountReducer
+// CounterReducer
 
 const initialState = {
     value: 0
